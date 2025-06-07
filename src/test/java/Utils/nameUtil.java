@@ -11,6 +11,8 @@ public class nameUtil {
 
 	public static String getName() {
 		return faker.name().firstName().replaceAll("[^A-Za-z]", "");
-        
+		
+		
+		//user1 chnages updated 
     }
 }
