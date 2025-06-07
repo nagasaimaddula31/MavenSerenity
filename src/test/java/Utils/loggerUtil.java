@@ -13,5 +13,7 @@ public class loggerUtil {
     // Provide a public method to get the logger instance
     public static Logger getLogger() {
         return LOGGER;
+        
+        //end
     }
 }
