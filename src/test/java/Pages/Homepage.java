@@ -29,6 +29,7 @@ public class Homepage extends PageObject
 	   public void clickAdminTab()
 	    {
 	    	$(AdminButton).click();
+	    	//NF15 chnages
 	    }
 	   
 	public void navigateToJobTitles()
